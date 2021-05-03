@@ -1,1 +1,1 @@
-# Bootstrap
+# Вёрстка страницы используя Bootstrap
